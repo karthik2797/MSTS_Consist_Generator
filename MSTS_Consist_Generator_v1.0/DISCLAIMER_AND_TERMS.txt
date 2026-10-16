@@ -1,0 +1,87 @@
+MSTS CONSIST GENERATOR
+DISCLAIMER, TERMS OF USE, RULES & GUIDELINES
+============================================================
+
+Developer: Karthik Iyer - IRTS FAN
+YouTube: https://www.youtube.com/@IRTSFAN
+Email: irtslover@gmail.com
+
+PLEASE READ BEFORE USING THE APPLICATION
+
+1. PURPOSE AND SCOPE
+--------------------
+MSTS Consist Generator is a community-made utility intended to help users create Microsoft Train Simulator (.con) consist files from locomotive (.eng) and wagon/vehicle (.wag) files available in a user's selected Trainset folder. It is provided as a convenience tool. It does not replace the user's responsibility to maintain, back up, configure, and test their MSTS installation.
+
+2. INDEPENDENCE / NO OFFICIAL AFFILIATION
+-----------------------------------------
+This is an independent, fan-made utility. It is not affiliated with, endorsed by, sponsored by, or officially connected to Microsoft, the makers or publishers of Microsoft Train Simulator, Indian Railways, or any train-simulation add-on developer, unless a separate written statement expressly says otherwise. Product names and trademarks belong to their respective owners and are used only to identify compatibility or subject matter.
+
+3. DISCLAIMER OF WARRANTY
+-------------------------
+The application and its generated files are provided "AS IS" and "AS AVAILABLE", without warranties of any kind, to the extent permitted by applicable law. No guarantee is made that the application will be error-free, compatible with every MSTS installation, detect every vehicle, produce a valid consist in every case, or meet a particular user's needs. Results can vary with Trainset structure, filenames, missing assets, vehicle configuration, simulator version, and add-ons installed.
+
+4. USER RESPONSIBILITY AND BACKUPS
+----------------------------------
+- Back up important MSTS files before using the application or changing your installation.
+- Select the correct TRAINS\\TRAINSET directory and check the output folder before copying or using generated files.
+- Review generated .con files and test them in MSTS before using them in activities, routes, or shared installations.
+- Confirm that every referenced .eng/.wag file and its required shape, sound, texture, cab, and other dependencies are installed and correctly configured.
+- Do not assume that a vehicle is suitable for a particular route, era, gauge, train formation, activity, or operating condition merely because it appears in the file scan.
+- The application may not identify stock types reliably from filenames. Optional tail-stock detection and other filename-based matching may miss items or select unsuitable items.
+
+5. FILES AND SYSTEM CHANGES
+---------------------------
+The tool is intended to create output consist files in its designated output folder. Even so, users must verify the selected paths and inspect the results. The developer is not responsible for data loss, overwritten files, corrupted installations, missing assets, configuration problems, or other damage arising from use, misuse, or inability to use the application, to the extent permitted by applicable law. Nothing in this document excludes liability that cannot legally be excluded.
+
+6. ACCEPTABLE USE
+-----------------
+You may use the utility for personal, educational, testing, and other lawful train-simulation purposes. You agree not to:
+- use it to violate applicable laws or another person's rights;
+- misrepresent the application as an official Microsoft, Indian Railways, or third-party product;
+- distribute malware or bundle harmful code with the application;
+- remove or falsify developer credits when redistributing an unmodified copy, where doing so is not otherwise authorized;
+- claim ownership of third-party rolling-stock files, models, sounds, textures, or other assets that you did not create or license.
+
+7. COPYRIGHT AND INTELLECTUAL PROPERTY
+--------------------------------------
+The application source code, original interface elements, documentation, and original branding/credits are credited to Karthik Iyer - IRTS FAN, except for material identified as belonging to another rights holder. Copyright and other rights remain with their respective owners.
+
+MSTS Consist Generator does not grant permission to copy, extract, repackage, sell, sublicense, or redistribute third-party MSTS game files or add-on assets. Those files remain subject to their own copyright notices, licenses, and distribution rules. Obtain permission from the relevant rights holder where required.
+
+Unless a separate license or written permission accompanies the application, do not assume that this document grants a broad license to republish modified source code, sell the application, or use the developer's name/branding to imply endorsement. You may contact the developer to discuss permission for redistribution or other uses.
+
+8. REDISTRIBUTION AND MODIFICATIONS
+-----------------------------------
+If you share the application package, share it responsibly and do not imply that you are its original developer. Keep the disclaimer, documentation, and developer credit with an unmodified package where practicable. If you modify the source, clearly identify your modifications and do not present the modified version as an official release by Karthik Iyer - IRTS FAN. Do not include third-party assets unless their terms permit redistribution. Any applicable license or written permission takes precedence over this general guidance.
+
+9. GENERATED .CON FILES
+-----------------------
+Generated consist files are assembled from vehicle entries found on the user's system. The generator does not create, own, or provide the referenced rolling-stock models or their dependencies. The user is responsible for ensuring that referenced stock is installed, legally obtained, and appropriate for their intended use. A generated file is not a guarantee that a train will load, couple, operate, or behave correctly in the simulator.
+
+10. DONATIONS AND EXTERNAL LINKS
+-------------------------------
+Any Buy Me a Coffee link is optional support for the developer and is not required to download or use the utility unless explicitly stated elsewhere. External websites, including YouTube and donation pages, are operated by third parties and are subject to their own terms and privacy policies. The developer does not control those sites or guarantee their availability or content.
+
+11. PRIVACY
+-----------
+This utility is intended to work with local Trainset files. This document does not promise that every version or repackaged copy behaves identically. Review the source code and the behavior of the specific copy you run, and obtain it from a source you trust. Do not run modified or repackaged executables unless you trust their source.
+
+12. LIMITATION OF LIABILITY
+---------------------------
+To the maximum extent permitted by applicable law, the developer will not be liable for indirect, incidental, special, consequential, or punitive damages, or for loss of data, game progress, configurations, or time arising from use of the application. This clause does not limit any liability that applicable law does not allow to be limited.
+
+13. UPDATES AND SUPPORT
+-----------------------
+Features, compatibility, documentation, and distribution methods may change without notice. Support is not guaranteed. For questions or to report a reproducible issue, contact irtslover@gmail.com and include your Windows/Python setup, steps to reproduce the issue, and any relevant error message. Do not send copyrighted game or add-on files unless you have permission to share them.
+
+14. ACCEPTANCE
+--------------
+By downloading, installing, or using the application, you acknowledge that you have read this document and agree to use the utility responsibly and at your own risk, subject to rights that cannot be waived under applicable law. If you do not agree, do not use the application.
+
+------------------------------------------------------------
+Designed and developed by Karthik Iyer - IRTS FAN.
+YouTube Channel: https://www.youtube.com/@IRTSFAN
+Email: irtslover@gmail.com
+Buy Me a Coffee: https://buymeacoffee.com/irtsfan
+
+This is a general-purpose informational notice, not legal advice. Consider having a qualified legal professional review it before relying on it as a legally enforceable agreement.
